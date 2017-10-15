@@ -1,9 +1,13 @@
 # GreenShah
 
+> \[Update\] GreenShah is now included in these extensions by default. 
+> * [`Color Themes for Visual Studio Extension`](https://marketplace.visualstudio.com/items?itemName=JustinClareburtMSFT.ColorThemesforVisualStudio) 
+> * [`Color Theme Editor for Visual Studio 2017 Extension`](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor)
+
 ### Extension for Loading GreenShah Theme:
 * [Color Theme Editor for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor): After installing this extension by chosing 'Import Theme' load 'GreenShah.vstheme' file.
 
-### Optional Extension for setting Editor Background Image:
+### Optional: Extension for setting Editor Background Image:
 * [ClaudiaIDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 
 
