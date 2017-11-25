@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Dark (1)" GUID="{78780788-8a45-4ce4-831f-d288201a314e}">
+  <Theme Name="GreenShah" GUID="{78780788-8a45-4ce4-831f-d288201a314e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
