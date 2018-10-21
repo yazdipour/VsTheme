@@ -1,21 +1,24 @@
-# GreenShah
+# My Visual Studio Themes
+- **Installation: First Get [Color Theme Editor for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor) and then Import theme file `.vstheme`.**
+
+- **Optional Extension for setting Background Image: [ClaudiaIDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)**
+
+## GreenShah
+### [⏬ Get Theme](GreenShah/GreenShah.vstheme)
+![Home](GreenShah/Screenshots/Home.png "GreenShah VS2017 Theme")
+![Editor](GreenShah/Screenshots/Editor.png "GreenShah VS2017 Theme")
 
 > \[Update\] GreenShah is now included in these extensions by default. 
-> * [`Color Themes for Visual Studio Extension`](https://marketplace.visualstudio.com/items?itemName=JustinClareburtMSFT.ColorThemesforVisualStudio) 
-> * [`Color Theme Editor for Visual Studio 2017 Extension`](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor)
+> - [`Color Themes for Visual Studio Extension`](https://marketplace.visualstudio.com/items?itemName=JustinClareburtMSFT.ColorThemesforVisualStudio) 
+> - [`Color Theme Editor for Visual Studio 2017 Extension`](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor)
 
-### Extension for Loading GreenShah Theme:
-* [Color Theme Editor for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor): After installing this extension by chosing 'Import Theme' load 'GreenShah.vstheme' file.
+## Hyper
+### [⏬ Get Theme](Hyper/Hyper.vstheme)
+![Editor](Hyper/Screenshots/Editor.png "Hyper VS2017 Theme")
 
-### Optional: Extension for setting Editor Background Image:
-* [ClaudiaIDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
+## AsphaltShah
+### [⏬ Get Theme](AsphaltShah/AsphaltShah.vstheme)
+![Editor](AsphaltShah/Screenshots/Editor.png "AsphaltShah VS2017 Theme")
 
-
-# Home
-![Home](https://raw.githubusercontent.com/yazdipour/GreenShah/master/Screenshots/Home.png "GreenShah VS2017 Theme Home")
-
-# Editor
-![Editor](https://raw.githubusercontent.com/yazdipour/GreenShah/master/Screenshots/Editor.png "GreenShah VS2017 Theme Editor")
-
-* [MIT License](https://github.com/yazdipour/GreenShah/blob/master/LICENSE)
-
+- [Microsoft Official Repository for Visual Studio Theme contributors](https://github.com/Microsoft/VS-ColorThemes/)
+- [MIT License](https://github.com/yazdipour/GreenShah/blob/master/LICENSE)
