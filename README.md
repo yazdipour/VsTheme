@@ -1,4 +1,7 @@
 # My Visual Studio Themes
+
+[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/XrTW5YQDy)
+
 - **Installation: First Get [Color Theme Editor for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor) and then Import theme file `.vstheme`.**
 
 - **Optional Extension for setting Background Image: [ClaudiaIDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)**
@@ -19,6 +22,3 @@
 ## AsphaltShah
 ### [⏬ Get The Theme](https://github.com/yazdipour/VsTheme/raw/master/AsphaltShah/AsphaltShah.vstheme)
 ![Editor](AsphaltShah/Screenshots/Editor.png "AsphaltShah VS2017 Theme")
-
-- [Microsoft Official Repository for Visual Studio Theme contributors](https://github.com/Microsoft/VS-ColorThemes/)
-- [MIT License](https://github.com/yazdipour/GreenShah/blob/master/LICENSE)
